@@ -18,7 +18,7 @@ a {
     top: 0px;
     width: 100%;
     background-color: #011627;
-    justify-content: space-evenly;
+    justify-content: space-around;
     padding: 20px;
 }
  
@@ -280,7 +280,7 @@ img.libro {
         top: 0px;
         width: 100%;
         background-color: #011627;
-        justify-content: space-evenly;
+        justify-content: space-around;
     }
     .hero{
         margin-top: 19px;
