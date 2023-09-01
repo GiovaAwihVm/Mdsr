@@ -290,6 +290,7 @@ img.libro {
         max-width: auto;
         margin-bottom: 30px;
         object-fit: cover;
+        border-bottom: 2px solid #01162793;
     }
     .nav-link {
         border: none;
@@ -336,7 +337,6 @@ img.libro {
 
     #presentazione {
         margin: 0px 30px 70px 30px;
-        border-top: 2px solid #01162793;
         text-align: center;
     }
     
