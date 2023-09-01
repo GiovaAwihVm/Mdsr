@@ -39,7 +39,6 @@ color: #48acff;
 
 #home {
     font-size: 19px;
-    margin-top: -9px;
 
 }
 
@@ -60,7 +59,7 @@ color: #48acff;
     color:#fdfffc;
 } */
 #chi-siamo {
-    font-size: auto;
+    font-size: 16px;
 }
 
 /*-----------------------*/
@@ -311,7 +310,6 @@ img.libro {
  
     #home {
         font-size: 19px;
-        margin-top: -9px;
 
     }
  
@@ -332,7 +330,7 @@ img.libro {
         color:#fdfffc;
     } */
     #chi-siamo {
-        font-size: auto;
+        font-size: 16px;
     }
     /*----------------------------*/
 
