@@ -39,7 +39,6 @@ color: #48acff;
 
 #home {
     font-size: 19px;
-    margin-top: -9px;
 
 }
 
@@ -60,7 +59,8 @@ color: #48acff;
     color:#fdfffc;
 } */
 #chi-siamo {
-    font-size: auto;
+    font-size: 16px;
+ margin-left: -10px;
 }
 
 /*-----------------------*/
@@ -86,7 +86,6 @@ color: #48acff;
 
 #presentazione {
     margin: 0px 30px 20px 30px;
-    border-top: 2px solid #01162793;
     text-align: center;
 }
 
@@ -265,8 +264,8 @@ img.libro {
 }
  
     .titolo {
-        margin-top: -300px;
-        font-size: 60px;
+        margin-top: -270px;
+        font-size: 50px;
         font-weight: 400;
     }
     h2 {
@@ -281,7 +280,7 @@ img.libro {
         top: 0px;
         width: 100%;
         background-color: #011627;
-        justify-content: space-evenly;
+        justify-content: space-around;
     }
     .hero{
         margin-top: 19px;
@@ -291,6 +290,7 @@ img.libro {
         max-width: auto;
         margin-bottom: 30px;
         object-fit: cover;
+        border-bottom: 2px solid #01162793;
     }
     .nav-link {
         border: none;
@@ -310,8 +310,7 @@ img.libro {
 
  
     #home {
-        font-size: 19px;
-        margin-top: -9px;
+        font-size: 18px;
 
     }
  
@@ -321,7 +320,7 @@ img.libro {
         margin-left: -13px; 
     } */
     #biblioteca {
-        font-size: 19px;
+        font-size: 18px;
  
     }
  
@@ -332,13 +331,13 @@ img.libro {
         color:#fdfffc;
     } */
     #chi-siamo {
-        font-size: auto;
+        font-size: 13px;
+       margin-left: -10px;
     }
     /*----------------------------*/
 
     #presentazione {
-        margin: 0px 30px 70px 30px;
-        border-top: 2px solid #01162793;
+        margin: 28px 30px 70px 30px;
         text-align: center;
     }
     
@@ -445,6 +444,7 @@ img.libro {
      
  
     #textbiblioteca_indirizzo {
+        text-align: center;
         color: #FDFFFC;
         font-family: 'Montserrat', sans-serif;
         font-size: 15px;
