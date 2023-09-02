@@ -24,8 +24,9 @@ a {
  
 .nav-link {
     color: #FDFFFC;
+     justify-content: space-evenly;
     font-size: 18px;
-    margin: 0px 32px;  
+    margin: 0px 1px;  
 }
 .nav-link :visited {
 color: #FDFFFC;
@@ -311,6 +312,7 @@ img.libro {
  
     #home {
         font-size: 18px;
+          margin-left: -10px;
 
     }
  
@@ -321,6 +323,7 @@ img.libro {
     } */
     #biblioteca {
         font-size: 18px;
+          margin-left: -14px;
  
     }
  
